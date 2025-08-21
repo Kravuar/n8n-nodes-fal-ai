@@ -16,8 +16,10 @@ Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes
 
 ## Operations
 
-* **Model Operations:** Run various AI models provided by Fal AI.
-* ...
+* **Model Operations:** Run various AI models provided by Fal AI. Support sync and async requests.
+* **Common:** Query asynchronous requests status, result.
+* **Storage:** Upload files.
+* **Workflows:** Composite predefined actions.
 
 ## Credentials
 
